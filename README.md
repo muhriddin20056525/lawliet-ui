@@ -15,8 +15,11 @@ Bu loyiha "Lawliet" nomli yuridik konsultatsiya veb-sayti uchun mo'ljallangan. V
 ## Loyihaning Tuzilishi
 
 - **index.html**: Asosiy HTML fayli, saytning barcha bo'limlari shu yerda jamlangan.
-- **css/style.css**: Barcha sahifalar uchun umumiy uslublar.
+- **css/style.css**: Barcha sahifalar uchun umumiy stylelar.
+- **css/fonts.css**: Barcha sahifalar uchun umumiy fontlar.
 - **js/script.js**: JavaScript funksiyalari, asosan menyu boshqaruvi uchun.
+- **images**: Loyihada foydalanilgan barcha rasmalar uchun
+- **fonts**: Loyihada foydalanilgan barcha fontlar uchun
 
 ## Sayt Bo'limlari
 
