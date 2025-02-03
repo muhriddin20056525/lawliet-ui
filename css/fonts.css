@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter_18pt-Regular.ttf");
+}
+
+@font-face {
+  font-family: "PlayfairDisplay";
+  src: url("../fonts/PlayfairDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: "PlusJakartaSans";
+  src: url("../fonts/PlusJakartaSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins-Regular.ttf");
+}
